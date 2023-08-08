@@ -23,7 +23,7 @@ RUN export GO111MODULE=on && \
     export GOPROXY=https://mirrors.aliyun.com/goproxy/ && \
     go build main.go
 
-FROM alpine:latest
+FROM alpine:3.18.3
 
 ENV TZ=Asia/Shanghai
 
