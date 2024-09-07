@@ -79,12 +79,12 @@
     "crypto-js": "^3.1.9-1",
     "draft-js": "^0.10.3",
     "echarts": "^4.0.2",
-    "enzyme-adapter-react-16": "^1.6",
+    "enzyme-adapter-react-16": "^1.15.8",
     "esri-loader": "0.3.1",
-    "husky": "^1.1.2",
+    "husky": "^4.0.0",
     "identity-obj-proxy": "^3.0.0",
     "immutable": "~3.8.1",
-    "lint-staged": "^7.3.0",
+    "lint-staged": "^10.2.0",
     "md5": "^2.2.1",
     "path-to-regexp": "^6.1.0",
     "prop-types": "^15.6.2",
@@ -99,11 +99,11 @@
     "react-router-dom": "^5.1.2",
     "react-router-redux": "~4.0.5",
     "redux": "^4.0.4",
-    "redux-actions": "~2.2.1",
+    "redux-actions": "~2.5.0",
     "redux-mock-store": "^1.5.3",
     "redux-thunk": "~2.2.0",
     "require": "^2.4.20",
     "socket.io-client": "^2.2.0",
-    "webpack": "~3.10.0"
+    "webpack": "~5.0.0"
   }
 }
