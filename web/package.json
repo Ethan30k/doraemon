@@ -86,7 +86,7 @@
     "immutable": "~3.8.1",
     "lint-staged": "^7.3.0",
     "md5": "^2.2.1",
-    "path-to-regexp": "^6.1.0",
+    "path-to-regexp": "^8.0.0",
     "prop-types": "^15.6.2",
     "rc-queue-anim": "^1.4.1",
     "rc-tween-one": "~1.7.3",
